@@ -30,7 +30,7 @@ The primary objective is to analyze and optimize web traffic and user engagement
 
 ## Sample Data
 
-![Sample Data](/_assets/website-performance-by-statso.png)
+![Sample Data](/_assets/website-performance.png)
 
 ## Related Projects
 
