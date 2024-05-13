@@ -8,7 +8,6 @@ This datasets are from **[Statso](https://statso.io/)**, a data-driven business 
 
 The provided dataset contains the following columns, each representing different aspects of the electric vehicle (EV) population in the United States:
 
-
 - **VIN (1-10)**: Partial Vehicle Identification Number.
 - **County**: The county in which the vehicle is registered.
 - **City**: The city in which the vehicle is registered.
@@ -31,7 +30,6 @@ The provided dataset contains the following columns, each representing different
 
 The primary objective of this analysis is to leverage historical EV registration data to understand the current market penetration of EVs, predict future market growth, and identify key trends and factors driving market expansion. The specific goals include:
 
-
 1. Assess the historical growth trend of EV registrations.
 2. Forecast future EV registrations based on historical trends.
 3. Analyze the distribution of EV registrations across different models, makes, and geographical regions.
@@ -39,6 +37,7 @@ The primary objective of this analysis is to leverage historical EV registration
 5. Provide insights to support stakeholders in decision-making processes related to production, infrastructure planning, and policy formulation.
 
 ## Sample Data
+
 ![Sample Data](/_assets/market-size-of-evs.png)
 
 ## Related Projects
