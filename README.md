@@ -12,7 +12,8 @@ This repository provides a central location for various datasets collected from 
 
 ## Acknowledgements
 
-- Some satasets are from **[Statso](https://statso.io/)**, a data-driven business consulting services. They are specialized in providing data-driven insights to help businesses grow, they leverage data to provide insights that help businesses make better decisions and build a successful data-driven business models.
+- **[Statso](https://statso.io/)**, a data-driven business consulting services. They are specialized in providing data-driven insights to help businesses grow, they leverage data to provide insights that help businesses make better decisions and build a successful data-driven business models.
+- **[Kaggle](https://www.kaggle.com/)**, a platform for predictive modeling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data.
 
 ## How to Contribute?
 
