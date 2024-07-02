@@ -2,8 +2,6 @@
 
 [![Dataset Badge](https://img.shields.io/badge/dataset-website_performance_analysis-%23FFF8C9?style=for-the-badge)](https://github.com/cogxen/datasets/blob/main/website-performance/dataset.csv)
 
-This datasets are from **[Statso](https://statso.io/)**, a data-driven business consulting services. They are specialized in providing data-driven insights to help businesses grow, they leverage data to provide insights that help businesses make better decisions and build a successful data-driven business models.
-
 ## Dataset Contents
 
 The given dataset contains the following columns:

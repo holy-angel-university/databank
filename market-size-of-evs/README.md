@@ -2,8 +2,6 @@
 
 [![Dataset Link Badge](https://img.shields.io/badge/dataset_link-market_size_of_evs-%23FFF8C9?style=for-the-badge)](https://github.com/cogxen/datasets/blob/main/market-size-of-evs/dataset.csv)
 
-This datasets are from **[Statso](https://statso.io/)**, a data-driven business consulting services. They are specialized in providing data-driven insights to help businesses grow, they leverage data to provide insights that help businesses make better decisions and build a successful data-driven business models.
-
 ## Dataset Contents
 
 The provided dataset contains the following columns, each representing different aspects of the electric vehicle (EV) population in the United States:
