@@ -1,7 +1,5 @@
 # Website Performance Analysis
 
-[![Dataset Badge](https://img.shields.io/badge/dataset-website_performance_analysis-%23FFF8C9?style=for-the-badge)](https://github.com/cogxen/datasets/blob/main/website-performance/dataset.csv)
-
 ## Dataset Contents
 
 The given dataset contains the following columns:

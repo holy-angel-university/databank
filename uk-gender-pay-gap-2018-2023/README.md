@@ -1,7 +1,5 @@
 # UK Gender Pay Gap Data 2018 - 2023
 
-[![Dataset Link Badge](https://img.shields.io/badge/datasets-uk_gender_pay_gap-%23FFF8C9?style=for-the-badge)](https://github.com/cogxen/datasets/blob/main/market-size-of-evs/datasets/)
-
 ## Dataset Contents
 
 This dataset currently contains data collected by the Gender Pay Gap Service for the 2018 to 2023 reporting years. More data will be added as it becomes available.
