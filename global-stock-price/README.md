@@ -1,9 +1,5 @@
 # Global Stock Price
 
-[![Dataset Badge](https://img.shields.io/badge/dataset-global_stock_price-%23FFF8C9?style=for-the-badge)](https://github.com/cogxen/datasets/blob/main/global-stock-price/dataset.csv)
-
-This dataset is from the [Global Stock Price Archive](https://www.kaggle.com/ehallmar/global-stock-price-archive) on [Kaggle](https://www.kaggle.com/).
-
 ## Dataset Contents
 
 The given dataset contains the following columns:
