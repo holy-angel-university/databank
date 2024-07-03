@@ -1,7 +1,5 @@
 # IPL 2024 RCB Vs DC
 
-[![Dataset Link Badge](https://img.shields.io/badge/dataset_link-ipl_2024_rcb_vs_dc-%23FFF8C9?style=for-the-badge)](https://github.com/cogxen/datasets/blob/main/ipl-2024-rcb-vs-dc/dataset.csv)
-
 ## Dataset Contents
 
 The provided dataset contains the following columns, each representing different aspects of the IPL 2024 match between Royal Challengers Bangalore (RCB) and Delhi Capitals (DC):
