@@ -4,11 +4,12 @@ This repository is managed by a student organization called [Cogxen](https://cog
 
 ## Acknowledgements
 
-We would like to thank the following contributors:
+We would like to thank the following sources of datasets for providing valuable data that can be used for educational purposes, research, and analysis:
 
 - **[Statso](https://statso.io/)**, a data-driven business consulting service specializing in providing insights that help businesses make better decisions and build successful data-driven models.
 - **[Kaggle](https://www.kaggle.com/)**, a platform for predictive modeling and analytics competitions, where companies and researchers post data and data scientists compete to produce the best models for predicting and describing the data.
 - **[Gov.uk](https://www.gov.uk/)**, the official UK government website that provides information and services from various government departments, including data on a wide range of topics.
+- **[Codecademy](https://www.codecademy.com/)**, an online interactive platform that offers free coding classes in programming languages like Python, Java, and more.
 
 ## How to Contribute?
 
