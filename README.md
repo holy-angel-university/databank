@@ -1,5 +1,13 @@
 ![Banner](/assets/banner.png)
 
+<div align='center'>
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/cogxen/datasets?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/cogxen/datasets?display_timestamp=author&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/cogxen/datasets?style=flat-square)
+
+</div>
+
 This repository is managed by a student organization called [Cogxen](https://cogxen.quest) at [Holy Angel University](https://hau.edu.ph) for educational purposes. It serves as a central hub for various datasets collected from different online sources. Each dataset includes a brief description of its content. These datasets are intended for educational use, research, analysis, and more. The repository aims to provide a diverse collection of datasets to cater to different interests and needs.
 
 ## Acknowledgements
