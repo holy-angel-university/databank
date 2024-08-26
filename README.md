@@ -1,4 +1,4 @@
-![Banner](/assets/banner.png)
+![Banner](https://i.imgur.com/kDn5uLX.png)
 
 <div align='center'>
 
