@@ -7,7 +7,7 @@
 
 </div>
 
-This repository is managed by a student organization, **[Aelluminate](https://aelluminate.com)** at **[Holy Angel University](https://hau.edu.ph)**, for educational purposes. It serves as a central hub for various datasets collected from different online sources. Each dataset includes a brief description of its content. These datasets are intended for educational use, research, analysis, and more. The repository aims to provide a diverse collection of datasets to cater to different interests and needs.
+Curated collection of publicly available datasets for student experimentation & data analysis projects. Managed by **[Aelluminate](https://aelluminate.com)** for educational purposes. Serves as a central hub for diverse datasets collected from different online sources. Each dataset includes a brief description of its content. Intended for educational use, research, analysis & more.
 
 ## Acknowledgements
 
