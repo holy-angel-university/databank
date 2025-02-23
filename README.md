@@ -1,11 +1,4 @@
-![banner](https://i.imgur.com/LayWZQ1.png)
-
-<div align='center'>
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/aelluminate/databank?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/aelluminate/databank?display_timestamp=author&style=flat-square)
-
-</div>
+# Databank
 
 Curated collection of publicly available datasets for student experimentation & data analysis projects. Managed by **[Aelluminate](https://aelluminate.com)** for educational purposes. Serves as a central hub for diverse datasets collected from different online sources. Each dataset includes a brief description of its content. Intended for educational use, research, analysis & more.
 
